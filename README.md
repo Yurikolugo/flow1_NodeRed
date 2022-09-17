@@ -46,7 +46,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/Yurikolugo/flow1_NodeRed/blob/main/flow1.png?raw=true)
+![](https://github.com/Yurikolugo/flow1_NodeRed/blob/main/flow1.png)
 
 ## Evidencias
 
